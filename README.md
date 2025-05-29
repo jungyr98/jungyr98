@@ -1,5 +1,5 @@
 [![Hits](https://hits.sh/github.com/jungyr98.svg?view=today-total&style=flat-square&color=000000&labelColor=000000&logo=github)](https://hits.sh/github.com/jungyr98/) <br/>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jungyr98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jungyr98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
